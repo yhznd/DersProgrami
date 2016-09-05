@@ -1,0 +1,22 @@
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\bin\Debug\DersProgrami.exe.config
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\bin\Debug\Cizge.accdb
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\bin\Debug\DersProgrami.exe
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\bin\Debug\DersProgrami.pdb
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.Form1.resources
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.Properties.Resources.resources
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.exe
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.pdb
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\bin\Debug\DersProgrami.exe.config
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.exe
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.pdb
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\bin\Debug\Cizge.accdb
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\bin\Debug\DersProgrami.exe
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\bin\Debug\DersProgrami.pdb
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.Form1.resources
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Ayrık Projesi\DersProgrami\DersProgrami\obj\Debug\DersProgrami.Form2.resources
+C:\Users\Samsung\Desktop\DersProgrami\DersProgrami\obj\Debug\DersProgrami.Form2.resources
